@@ -448,7 +448,7 @@ overflow: hidden;
 
   .arrowsMobile{
     display: initial;
-    bottom: 6rem;
+    bottom: 0rem;
   }
 
   .myBtn{
